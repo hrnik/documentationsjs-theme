@@ -1,0 +1,19 @@
+{
+  "name": "documentation-theme-42",
+  "version": "1.0.1",
+  "description": "![](screenshot.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrnik/documentationsjs-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrnik/documentationsjs-theme/issues"
+  },
+  "homepage": "https://github.com/hrnik/documentationsjs-theme#readme"
+}
